@@ -1,5 +1,5 @@
 box:
- id: apiary/dredd
+ id: apiaryio/dredd
 
 # Build definition
 build:
