@@ -15,4 +15,5 @@ build:
     - script:
         name: run dredd
         code: |
+          npm install dredd
           dredd
