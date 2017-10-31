@@ -12,7 +12,7 @@ init: false
 names: false
 only: []
 output: []
-header: "api-key: 12345"
+header: "api-key: 633b1248-6156-4987-8b62-ef864c0561a7"
 sorted: false
 user: null
 inline-errors: false
