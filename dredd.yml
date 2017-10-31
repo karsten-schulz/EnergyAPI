@@ -33,4 +33,4 @@ hooks-worker-handler-host: 127.0.0.1
 hooks-worker-handler-port: 61321
 config: ./dredd.yml
 blueprint: apiary.apib
-endpoint: 'http://apipcs1733v3new-apipcsv3demoenv-grswk1ei.srv.ravcloud.com:8001/energy'
+endpoint: 'http://apipcs1733v3new-apipcsv3demoenv-grswk1ei.srv.ravcloud.com:8001/energy/beta'
