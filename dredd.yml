@@ -1,7 +1,7 @@
 reporter: apiary
 custom:
   apiaryApiKey: eeb72fcda56564a0fb9cdbfda8cbc004
-  apiaryApiName: kstnenergy
+  apiaryApiName: kstnenergy1
 dry-run: null
 hookfiles: null
 language: nodejs
