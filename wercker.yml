@@ -11,4 +11,4 @@ build:
     - script:
         name: run dredd
         code: |
-          dredd --headers="api-key: 	633b1248-6156-4987-8b62-ef864c0561a7"
+          dredd
