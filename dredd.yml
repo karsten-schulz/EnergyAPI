@@ -33,4 +33,4 @@ hooks-worker-handler-host: 127.0.0.1
 hooks-worker-handler-port: 61321
 config: ./dredd.yml
 blueprint: apiary.apib
-endpoint: 'http://130.61.59.124:8011/kstnenergy/beta'
+endpoint: 'http://130.61.44.212:8011/10/energy'
